@@ -15,6 +15,11 @@ function onYouTubePlayerReady(player_id) {
 
 	}
 
+function add_video(video_id) {
+	
+	vidoes.push(video_id);
+	}
+
 function init(video_ids) {
 
 	for (var key in video_ids) {
