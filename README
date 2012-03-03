@@ -1,0 +1,7 @@
+This will take a series of youtube videos and play them sequentially.  It is incredibly simple javascript, but I couldn't find snippets anywhere else, so here you go.
+
+MIT license 2012.  Do whatever you want with this.
+
+use this by calling init() with a series of YT ids, as follows:
+
+init(["cEwmywm6S7k","Ma7lyfYzIw8"])
