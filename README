@@ -5,3 +5,9 @@ MIT license 2012.  Do whatever you want with this.
 use this by calling init() with a series of YT ids, as follows:
 
 init(["cEwmywm6S7k","Ma7lyfYzIw8"])
+
+
+DEPENDENCIES:
+
+http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js
+
